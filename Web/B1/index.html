@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Veb Sajt</title>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="./script.js" defer></script>
+    </head>
+    <body>
+        <h1>Foto Galerija</h1>
+        <div class="nav">
+            <div class="left">
+                <a href="index.html">Pocetna</a>
+                <a href="O Autoru.html">O autoru</a>
+                <a href="Uputstvo.html">Uputsvo</a>
+            </div>
+            <span>Zavrsni Ispit</span>
+        </div>
+
+        <div class="container">
+            <iframe
+                src="./sajt/sajt1.html"
+                id="iframe"
+                frameborder="0"
+            ></iframe>
+
+            <img src="./img/slika1.jpg" id="main-pic" alt="" />
+            <div class="thumbnail-container">
+                <img src="./img/slika1.jpg" onclick="setImg(1)" alt="" />
+                <img src="./img/slika2.jpg" onclick="setImg(2)" alt="" />
+                <img src="./img/slika3.jpg" onclick="setImg(3)" alt="" />
+                <img src="./img/slika4.jpg" onclick="setImg(4)" alt="" />
+                <img src="./img/slika5.jpg" onclick="setImg(5)" alt="" />
+                <img src="./img/slika6.jpg" onclick="setImg(6)" alt="" />
+                <img src="./img/slika7.jpg" onclick="setImg(7)" alt="" />
+                <img src="./img/slika8.jpg" onclick="setImg(8)" alt="" />
+                <img src="./img/slika9.jpg" onclick="setImg(9)" alt="" />
+                <img src="./img/slika10.jpg" onclick="setImg(10)" alt="" />
+            </div>
+        </div>
+    </body>
+</html>

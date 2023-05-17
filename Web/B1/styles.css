@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: rgb(45, 166, 214);
+}
+
+h1 {
+    margin: 1rem;
+    color: rgb(31, 34, 199);
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 1em;
+    background-color: rgb(31, 34, 199);
+    height: 3em;
+    color: white;
+    align-items: center;
+}
+.nav a {
+    padding: 0.5em;
+    font-size: 1.5rem;
+    color: white;
+    margin-right: 0.5em;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    background-color: rgb(109, 189, 221);
+}
+
+.container {
+    width: 640px;
+    height: 640px;
+    margin: 3em auto;
+}
+
+.container iframe {
+    width: 100%;
+}
+
+.container img {
+    width: 100%;
+    height: 480px;
+    cursor: pointer;
+}
+
+.container .thumbnail-container {
+    display: flex;
+}
+
+.container .thumbnail-container img {
+    width: 64px;
+    height: 48px;
+}
