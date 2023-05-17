@@ -1,0 +1,115 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #e5f054;
+}
+
+h1 {
+    margin: 0.5em;
+    text-align: center;
+}
+
+nav {
+    width: 100vw;
+    height: 3em;
+    background-color: rgb(101, 245, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a {
+    color: #227900;
+    font-size: 1.5rem;
+    text-decoration: none;
+    width: 200px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a:hover {
+    background-color: #227900;
+    color: rgb(101, 245, 66);
+}
+
+.big-map {
+    width: 800px;
+    height: 1000px;
+    background-image: url("./img/glavna.jpg");
+    margin: 5em auto;
+    background-size: contain;
+    position: relative;
+}
+
+.big-map div > img {
+    width: 70px;
+    display: block;
+}
+
+.big-map div {
+    position: absolute;
+    width: 70px;
+    height: auto;
+    text-align: center;
+}
+
+.big-map div a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.3rem;
+}
+
+.srbija {
+    top: 30%;
+    right: 30%;
+}
+
+.albanija {
+    bottom: 20%;
+    right: 36%;
+}
+
+.bosna {
+    top: 30%;
+    left: 30%;
+}
+
+.bugarska {
+    right: 20px;
+    top: 54%;
+}
+
+.crna-gora {
+    top: 50%;
+    right: 50%;
+}
+
+.hrvatska {
+    top: 15%;
+    left: 20%;
+}
+
+.madjarska {
+    top: 5%;
+    left: 40%;
+}
+
+.rumunija {
+    left: 80%;
+    top: 20%;
+}
+
+.makedonija {
+    bottom: 30%;
+    right: 10%;
+}
+
+p {
+    font-size: 2rem;
+    text-align: center;
+}

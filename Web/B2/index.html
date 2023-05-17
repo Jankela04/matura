@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=\, initial-scale=1.0" />
+        <title>Domace Zivotinje</title>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="./script.js" defer></script>
+    </head>
+    <body>
+        <h1>Domace Zivotinje</h1>
+        <ul class="navbar">
+            <li><a href="./index.html">Pocetna</a></li>
+            <li><a href="./O autoru.html">O autoru</a></li>
+            <li><a href="./uputstvo.html">Uputstvo</a></li>
+        </ul>
+
+        <div class="animals-container">
+            <div
+                class="animal pas"
+                onmouseenter="playPas()"
+                onmouseleave="stopPas()"
+                target="popup"
+                onclick="window.open('./sajt/Pas.html','name','top=650,left=300,width=300,height=200')"
+            ></div>
+            <div
+                class="animal patka"
+                onmouseenter="playPace()"
+                onmouseleave="stopPace()"
+                onclick="window.open('./sajt/Pace.html','name','top=650,left=600,width=300,height=200')"
+            ></div>
+            <div
+                class="animal macka"
+                onmouseenter="playMacka()"
+                onmouseleave="stopMacka()"
+                onclick="window.open('./sajt/Macka.html','name','top=650,left=820,width=300,height=200')"
+            ></div>
+
+            <div
+                class="animal pile"
+                onmouseenter="playPile()"
+                onmouseleave="stopPile()"
+                onclick="window.open('./sajt/Pile.html','name','top=650,left=1100,width=300,height=200')"
+            ></div>
+            <div
+                class="animal krava"
+                onmouseenter="playKrava()"
+                onmouseleave="stopKrava()"
+                onclick="window.open('./sajt/Krava.html','name','top=650,left=1400,width=300,height=200')"
+            ></div>
+        </div>
+    </body>
+</html>

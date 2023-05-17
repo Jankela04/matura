@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: url("./img/background.jpg") no-repeat;
+    background-size: cover;
+}
+
+:root {
+    --yellow: rgb(255, 207, 50);
+    --purple: rgb(92, 22, 55);
+}
+
+p {
+    margin-top: 1em;
+    padding-inline: 5em;
+    text-align: center;
+    font-size: 2rem;
+}
+h1 {
+    color: var(--yellow);
+    text-align: center;
+    margin: 0.5em 0;
+}
+
+ul {
+    margin-top: 2em;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+li a {
+    border-left: 1px solid var(--purple);
+    text-decoration: none;
+    font-size: 1.5rem;
+    background-color: var(--yellow);
+    padding: 0.5em 1em;
+    color: var(--purple);
+}
+li:first-child a {
+    border-left: none;
+}
+
+li a:hover {
+    background-color: var(--purple);
+    color: var(--yellow);
+}
+
+.animals-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 15em;
+    gap: 1em;
+}
+
+.animal {
+    width: 15em;
+    height: 15em;
+    border-radius: 50%;
+    border: 2px solid var(--yellow);
+    cursor: pointer;
+}
+
+.pas {
+    background: url("./img/pas.jpg");
+    background-size: cover;
+}
+
+.patka {
+    background: url("./img/pace.jpg");
+    background-size: cover;
+}
+
+.macka {
+    background: url("./img/macka.jpg");
+    background-size: cover;
+}
+
+.pile {
+    background: url("./img/pile.jpg");
+    background-size: cover;
+}
+
+.krava {
+    background: url("./img/krava.jpg");
+    background-size: cover;
+}
