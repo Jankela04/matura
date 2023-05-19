@@ -1,0 +1,97 @@
+body
+{
+	background-color: yellow;
+	
+	font-family: cursive;
+}
+
+.glow {
+  font-size: 20px;
+  color: yellow;
+  text-align: center;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.image1 {
+	border: 1px solid #000000;
+	z-index: 1;
+	}
+.image2 {
+	position: absolute;
+	z-index: 2;
+	}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #8fa832;
+   color: white;
+   text-align: center;
+}
+
+.boldtable, .boldtable TD, .boldtable TH
+{
+vertical-align: top;
+padding: 2px;
+font-family:sans-serif;
+font-size:30pt;
+color:lime;
+text-shadow: 2px 2px;
+}
+
+.circleBase {
+        border-radius: 50%;
+      }
+      .circle1 {
+        width: 15px;
+        height: 15px;
+        background: grey;
+display: inline-block;
+      }
+
+#instrumenti {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#instrumenti td, #instrumenti th {
+  border: 1px solid #ddd;
+  padding: 1px;
+font-size:18pt;
+text-align:center
+}
+
+#instrumenti tr:hover {background-color: #ddd;}
+
+#instrumenti th {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
