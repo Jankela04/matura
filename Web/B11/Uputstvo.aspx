@@ -1,0 +1,41 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Uputstvo.aspx.cs"
+Inherits="B11.Uputstvo" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head runat="server">
+        <title>Упутство</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+        <form id="form1" runat="server">
+            <div>
+                <h1 class="glow">Упутство</h1>
+                <center>
+                    <a class="button" href="index.aspx">Почетна</a>
+                    <a class="button" href="O_autoru.aspx">О аутору</a>
+                    <a
+                        class="button"
+                        href="Uputstvo.aspx"
+                        style="background-color: #8fa832"
+                        >Упутство</a
+                    >
+
+                    <br /><br /><br />
+                    Апликација садржи три странице: Почетну, О аутору и Упутство
+                    <br />
+                    У опадајућем менију можете одабрати град за који ће бити
+                    приказана временска прогноза.
+                    <br />
+                    Кликом на дугме дестинације отвара се прозор са листом
+                    туристичких локација за тај град.
+                </center>
+
+                <div class="footer">
+                    <p>Copyright © Техничка школа Бечеј</p>
+                </div>
+            </div>
+        </form>
+    </body>
+</html>
