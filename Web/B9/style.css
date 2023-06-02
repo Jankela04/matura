@@ -1,0 +1,23 @@
+﻿body {
+    background-color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #8fa832;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    font-size: 30px;
+}

@@ -1,0 +1,8 @@
+AEROSMITH|SWEET EMOTON|Rok|1992|ONE records|Slike/omot1.jpg
+Dragana Mirkovic|Milo moje, sto te nema|Turbo-folk|1995|Grand show|Slike/omot2.jpg
+Belo platno|Kosovo i Metohija|Narodna muzika|2001|Atos|Slike/omot3.jpg
+David Guetta|The world is mine|Tehno|2005|Onlyclubbing|Slike/omot4.jpg
+50 Cent|In Da Club|Hip hop|2011|Bassivity|Slike/omot5.jpg
+Metalika|Crni|Metal|1990|vertigo|Slike/omot6.jpg
+Pink Floyd|Wish you were here|Rok|1985|city|Slike/omot7.jpg
+Pink Floyd|The Wall|Rok|1978|city|Slike/omot8.jpg
