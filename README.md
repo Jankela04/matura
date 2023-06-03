@@ -2,7 +2,6 @@
 
 ### Web
 
--   B11 - DESTINACIJE ZAVRŠITI !!!
 -   B13
 
 ### Programiranje
