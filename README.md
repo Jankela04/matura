@@ -1,9 +1,5 @@
 # TODO
 
-### Web
-
--   B13
-
 ### Programiranje
 
 -   A2

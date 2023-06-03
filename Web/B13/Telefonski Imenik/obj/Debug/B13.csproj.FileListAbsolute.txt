@@ -1,0 +1,14 @@
+C:\Users\Janez\Desktop\B13 - Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.dll.config
+C:\Users\Janez\Desktop\B13 - Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.dll
+C:\Users\Janez\Desktop\B13 - Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.pdb
+C:\Users\Janez\Desktop\B13 - Telefonski Imenik\Telefonski Imenik\obj\Debug\B13.csproj.AssemblyReference.cache
+C:\Users\Janez\Desktop\B13 - Telefonski Imenik\Telefonski Imenik\obj\Debug\B13.csproj.CoreCompileInputs.cache
+C:\Users\Janez\Desktop\B13 - Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.dll
+C:\Users\Janez\Desktop\B13 - Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.pdb
+C:\Users\Janez\Desktop\matura\Web\B13\Telefonski Imenik\bin\Telefonski Imenik.dll.config
+C:\Users\Janez\Desktop\matura\Web\B13\Telefonski Imenik\bin\Telefonski Imenik.dll
+C:\Users\Janez\Desktop\matura\Web\B13\Telefonski Imenik\bin\Telefonski Imenik.pdb
+C:\Users\Janez\Desktop\matura\Web\B13\Telefonski Imenik\obj\Debug\B13.csproj.AssemblyReference.cache
+C:\Users\Janez\Desktop\matura\Web\B13\Telefonski Imenik\obj\Debug\B13.csproj.CoreCompileInputs.cache
+C:\Users\Janez\Desktop\matura\Web\B13\Telefonski Imenik\obj\Debug\Telefonski Imenik.dll
+C:\Users\Janez\Desktop\matura\Web\B13\Telefonski Imenik\obj\Debug\Telefonski Imenik.pdb

@@ -1,0 +1,17 @@
+Z:\Web Programiranje\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.csprojResolveAssemblyReference.cache
+Z:\Web Programiranje\Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.dll
+Z:\Web Programiranje\Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.pdb
+Z:\Web Programiranje\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.dll
+Z:\Web Programiranje\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.pdb
+Z:\WEB\A6\Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.dll
+Z:\WEB\A6\Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.pdb
+Z:\WEB\A6\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.csprojResolveAssemblyReference.cache
+Z:\WEB\A6\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.dll
+Z:\WEB\A6\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.pdb
+C:\Users\Facic Sandi\Downloads\A6\A6\Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.dll.config
+C:\Users\Facic Sandi\Downloads\A6\A6\Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.dll
+C:\Users\Facic Sandi\Downloads\A6\A6\Telefonski Imenik\Telefonski Imenik\bin\Telefonski Imenik.pdb
+C:\Users\Facic Sandi\Downloads\A6\A6\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.csproj.AssemblyReference.cache
+C:\Users\Facic Sandi\Downloads\A6\A6\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.csproj.CoreCompileInputs.cache
+C:\Users\Facic Sandi\Downloads\A6\A6\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.dll
+C:\Users\Facic Sandi\Downloads\A6\A6\Telefonski Imenik\Telefonski Imenik\obj\Debug\Telefonski Imenik.pdb
